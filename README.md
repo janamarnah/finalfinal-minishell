@@ -2,8 +2,6 @@
 
 *This project has been created as part of the 42 curriculum by jalamarn, abmusleh.*
 
----
-
 # Description
 
 Minishell is a simplified Unix shell developed in C as part of the 42 curriculum.
